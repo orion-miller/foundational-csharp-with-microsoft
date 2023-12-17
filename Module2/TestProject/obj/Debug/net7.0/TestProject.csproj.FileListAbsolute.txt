@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\bin\Debug\net7.0\TestProject.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\bin\Debug\net7.0\TestProject.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\bin\Debug\net7.0\TestProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\bin\Debug\net7.0\TestProject.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\TestProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\TestProject.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\TestProject\obj\Debug\net7.0\ref\TestProject.dll
