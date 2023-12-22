@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\bin\Debug\net7.0\ArrayExample2.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\bin\Debug\net7.0\ArrayExample2.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\bin\Debug\net7.0\ArrayExample2.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\bin\Debug\net7.0\ArrayExample2.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\bin\Debug\net7.0\ArrayExample2.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\ArrayExample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\ArrayExample2.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\ArrayExample2.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\ArrayExample2.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\ArrayExample2.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\refint\ArrayExample2.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\ArrayExample2.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\ArrayExample2.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\ArrayExample2\obj\Debug\net7.0\ref\ArrayExample2.dll
