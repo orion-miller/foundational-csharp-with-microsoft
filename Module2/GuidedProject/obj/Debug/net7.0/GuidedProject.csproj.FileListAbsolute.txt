@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\bin\Debug\net7.0\GuidedProject.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\bin\Debug\net7.0\GuidedProject.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\bin\Debug\net7.0\GuidedProject.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\bin\Debug\net7.0\GuidedProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\bin\Debug\net7.0\GuidedProject.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\GuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\GuidedProject.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\GuidedProject.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\GuidedProject.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\GuidedProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\refint\GuidedProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\GuidedProject.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\GuidedProject.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module2\GuidedProject\obj\Debug\net7.0\ref\GuidedProject.dll
