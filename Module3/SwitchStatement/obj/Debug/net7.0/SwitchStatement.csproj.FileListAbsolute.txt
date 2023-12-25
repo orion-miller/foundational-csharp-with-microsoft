@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\bin\Debug\net7.0\SwitchStatement.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\bin\Debug\net7.0\SwitchStatement.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\bin\Debug\net7.0\SwitchStatement.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\bin\Debug\net7.0\SwitchStatement.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\bin\Debug\net7.0\SwitchStatement.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\SwitchStatement.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\SwitchStatement.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\SwitchStatement.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\refint\SwitchStatement.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\SwitchStatement.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\SwitchStatement.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\SwitchStatement\obj\Debug\net7.0\ref\SwitchStatement.dll
