@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\WhileLoops.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\WhileLoops.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\WhileLoops.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\bin\Debug\net7.0\WhileLoops.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\bin\Debug\net7.0\WhileLoops.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\bin\Debug\net7.0\WhileLoops.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\bin\Debug\net7.0\WhileLoops.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\bin\Debug\net7.0\WhileLoops.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\WhileLoops.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\refint\WhileLoops.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\WhileLoops.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\WhileLoops.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\WhileLoops\obj\Debug\net7.0\ref\WhileLoops.dll
