@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\bin\Debug\net7.0\VariableScope.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\bin\Debug\net7.0\VariableScope.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\bin\Debug\net7.0\VariableScope.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\bin\Debug\net7.0\VariableScope.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\bin\Debug\net7.0\VariableScope.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\VariableScope.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\VariableScope.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\VariableScope.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\VariableScope.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\refint\VariableScope.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\VariableScope.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\VariableScope.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\VariableScope\obj\Debug\net7.0\ref\VariableScope.dll

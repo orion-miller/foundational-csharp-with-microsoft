@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\refint\BooleanExpressions.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module3\BooleanExpressions\obj\Debug\net7.0\ref\BooleanExpressions.dll
