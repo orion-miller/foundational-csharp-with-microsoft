@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\bin\Debug\net7.0\DataTypeConversion.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\refint\DataTypeConversion.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\DataTypeConversion.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataTypeConversion\obj\Debug\net7.0\ref\DataTypeConversion.dll
