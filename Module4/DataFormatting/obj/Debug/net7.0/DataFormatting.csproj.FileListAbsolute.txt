@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\bin\Debug\net7.0\DataFormatting.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\bin\Debug\net7.0\DataFormatting.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\bin\Debug\net7.0\DataFormatting.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\bin\Debug\net7.0\DataFormatting.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\bin\Debug\net7.0\DataFormatting.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\DataFormatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\DataFormatting.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\DataFormatting.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\DataFormatting.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\DataFormatting.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\refint\DataFormatting.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\DataFormatting.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\DataFormatting.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\DataFormatting\obj\Debug\net7.0\ref\DataFormatting.dll
