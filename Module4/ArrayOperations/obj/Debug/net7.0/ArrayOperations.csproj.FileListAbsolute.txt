@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\bin\Debug\net7.0\ArrayOperations.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\bin\Debug\net7.0\ArrayOperations.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\bin\Debug\net7.0\ArrayOperations.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\bin\Debug\net7.0\ArrayOperations.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\bin\Debug\net7.0\ArrayOperations.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\ArrayOperations.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\ArrayOperations.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\ArrayOperations.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\ArrayOperations.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\refint\ArrayOperations.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\ArrayOperations.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\ArrayOperations.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\ArrayOperations\obj\Debug\net7.0\ref\ArrayOperations.dll
