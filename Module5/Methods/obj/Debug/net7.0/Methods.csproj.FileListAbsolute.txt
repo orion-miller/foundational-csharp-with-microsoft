@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\bin\Debug\net7.0\Methods.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\bin\Debug\net7.0\Methods.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\bin\Debug\net7.0\Methods.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\bin\Debug\net7.0\Methods.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\Methods.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\refint\Methods.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\Methods.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\Methods\obj\Debug\net7.0\ref\Methods.dll

@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\bin\Debug\net7.0\MethodParameters.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\bin\Debug\net7.0\MethodParameters.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\bin\Debug\net7.0\MethodParameters.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\bin\Debug\net7.0\MethodParameters.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\bin\Debug\net7.0\MethodParameters.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\MethodParameters.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\MethodParameters.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\MethodParameters.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\MethodParameters.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\refint\MethodParameters.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\MethodParameters.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\MethodParameters.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module5\MethodParameters\obj\Debug\net7.0\ref\MethodParameters.dll
