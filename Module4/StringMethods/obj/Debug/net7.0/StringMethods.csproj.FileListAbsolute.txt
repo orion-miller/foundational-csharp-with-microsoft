@@ -1,0 +1,14 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\bin\Debug\net7.0\StringMethods.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\bin\Debug\net7.0\StringMethods.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\bin\Debug\net7.0\StringMethods.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\bin\Debug\net7.0\StringMethods.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\bin\Debug\net7.0\StringMethods.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\StringMethods.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\StringMethods.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\StringMethods.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\StringMethods.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\refint\StringMethods.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\StringMethods.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\StringMethods.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module4\StringMethods\obj\Debug\net7.0\ref\StringMethods.dll
