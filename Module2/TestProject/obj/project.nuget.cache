@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kLjvOthLZ8VVtcF/i2sePRoRSFVrZ1dAS/2gaI8F+cD5DtOTwMvPJHncolgBHQDvll1S80EMCDyJEJAjUmkUrA==",
+  "dgSpecHash": "/glDrEFhEXiVGeKEg3FcyBI4ev0ijoPF17xc9g8fHQl2RXpaPRwXnjvXGHTuFfoZA5RtVnkYVUVop6xjWN3wYw==",
   "success": true,
   "projectFilePath": "D:\\!Orion_Programs\\!Source_Controlled\\foundational-csharp-with-microsoft\\Module2\\TestProject\\TestProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\orion\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\orion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\orion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\orion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

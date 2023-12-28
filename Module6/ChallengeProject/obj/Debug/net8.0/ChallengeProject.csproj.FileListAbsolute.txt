@@ -1,0 +1,15 @@
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\bin\Debug\net8.0\ChallengeProject.exe
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\bin\Debug\net8.0\ChallengeProject.deps.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\bin\Debug\net8.0\ChallengeProject.runtimeconfig.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\bin\Debug\net8.0\ChallengeProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\bin\Debug\net8.0\ChallengeProject.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ChallengeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ChallengeProject.AssemblyInfoInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ChallengeProject.AssemblyInfo.cs
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ChallengeProject.csproj.CoreCompileInputs.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ChallengeProject.sourcelink.json
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ChallengeProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\refint\ChallengeProject.dll
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ChallengeProject.pdb
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ChallengeProject.genruntimeconfig.cache
+D:\!Orion_Programs\!Source_Controlled\foundational-csharp-with-microsoft\Module6\ChallengeProject\obj\Debug\net8.0\ref\ChallengeProject.dll

@@ -72,18 +72,24 @@
 
 //=============================================================================
 
-/*  
-This code instantiates a value and then calls the ChangeValue method
-to update the value. The code then prints the updated value to the console.
-*/
-int x = 5;
+// /*  
+// This code instantiates a value and then calls the ChangeValue method
+// to update the value. The code then prints the updated value to the console.
+// */
+// int x = 5;
 
-x = ChangeValue(x);
+// x = ChangeValue(x);
 
-Console.WriteLine(x);
+// Console.WriteLine(x);
 
-int ChangeValue(int value) 
-{
-    value = 10;
-    return value;
-}
+// int ChangeValue(int value) 
+// {
+//     value = 10;
+//     return value;
+// }
+
+//=============================================================================
+
+int number1 = 3000;
+int number2 = 0;
+Console.WriteLine(number1 / number2); // DivideByZeroException occurs
